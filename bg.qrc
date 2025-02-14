@@ -1,0 +1,11 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+  <qresource>
+    <file>img\预知之眼-亚索.png</file>
+    <file>img\close.png</file>
+    <file>img\minus.png</file>
+    <file>img\app_icon.ico</file>
+    <file>fonts\三极泼墨体.ttf</file>
+    <file>fonts\字魂71号-御守锦书.ttf</file>
+  </qresource>
+</RCC>
