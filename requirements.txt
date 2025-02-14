@@ -1,0 +1,4 @@
+ipython==8.12.3
+psutil==6.1.0
+PyQt5==5.15.11
+PyQt5_sip==12.15.0
